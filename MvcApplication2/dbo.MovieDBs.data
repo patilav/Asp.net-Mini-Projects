@@ -1,0 +1,2 @@
+﻿INSERT INTO [dbo].[MovieDBs] ([ID], [Title], [Director], [Date]) VALUES (1, N'Psycho', N'Alfred Hitchcock', N'1960-01-01 00:00:00')
+INSERT INTO [dbo].[MovieDBs] ([ID], [Title], [Director], [Date]) VALUES (2, N'la vila da', N'Anthony P.', N'2015-01-10 00:00:00')
